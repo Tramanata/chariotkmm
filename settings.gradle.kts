@@ -17,3 +17,4 @@ dependencyResolutionManagement {
 rootProject.name = "ChariotKMM"
 include(":Chariot_Android")
 include(":Chariot_SharedModule")
+include(":Chariot_Backend")

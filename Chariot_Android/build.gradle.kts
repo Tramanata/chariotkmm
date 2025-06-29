@@ -43,10 +43,7 @@ dependencies {
     implementation(libs.compose.material3)
     implementation(libs.androidx.activity.compose)
     debugImplementation(libs.compose.ui.tooling)
-
-    implementation("androidx.navigation:navigation-compose:2.9.0")
-
-
+    implementation("androidx.navigation:navigation-compose:2.7.7")
 
 //    // Mapbox SDKs (Maps + Navigation + Search)
 //    implementation("com.mapbox.maps:android:11.0.0")
