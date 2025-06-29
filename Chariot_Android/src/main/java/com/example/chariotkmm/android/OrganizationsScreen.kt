@@ -52,7 +52,7 @@ fun OrganizationsScreen() {
                 modifier = Modifier.width(100.dp),
                 shape = RoundedCornerShape(8.dp)
             ) {
-                Text("Make Event", fontSize = 12.sp)
+                Text("Add Event", fontSize = 10.sp)
             }
 
             Button(
